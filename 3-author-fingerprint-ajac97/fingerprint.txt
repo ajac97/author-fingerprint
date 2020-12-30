@@ -1,0 +1,3 @@
+My findings are that Shakespeare and Dickens had very similar fingerprints. 
+In all 4 books, words of length 2,3, and 4 have are about 2 percent each. Words of length 5,6 and 7 are about 1 percent each 
+and 8 letter words are about .04, and it gradually declines from there. Words with more than 8 letters are rarely used in both author's works.
